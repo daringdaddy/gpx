@@ -9,3 +9,4 @@ You may use these files for planning your own hike. If you republish them, pleas
 |---|---|---|
 | [shirouma-dake-sarukura-tsugaike.gpx](shirouma-dake-sarukura-tsugaike.gpx) | Shirouma-dake: Sarukura → Hakuba Daisekkei → summit → Hakuba-Ōike → Tsugaike | 2026-08-02/03 |
 | [akaishi-warusawa-loop-sawarajima.gpx](akaishi-warusawa-loop-sawarajima.gpx) | Warusawa-dake and Akaishi-dake loop: Sawarajima → Senmai hut → Warusawa-dake → Arakawa huts → Akaishi-dake → Akaishi hut → Sawarajima | 2026-08-29/31 |
+| [aka-dake-shinkyoji-kenkai-loop.gpx](aka-dake-shinkyoji-kenkai-loop.gpx) | Aka-dake (Yatsugatake) day loop: Hagoromo-ike entrance → Shinkyōji-one → Aka-dake → Kenkai-one → Sun Meadows Kiyosato | 2026-08-13 |
