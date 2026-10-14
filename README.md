@@ -16,3 +16,4 @@ You may use these files for planning your own hike. If you republish them, pleas
 | [asama-maekake-kurumazaka-loop.gpx](asama-maekake-kurumazaka-loop.gpx) | Asama-yama (Maekake-yama) loop from Kurumazaka-toge via Kusa-suberi | |
 | [nantai-san-chugushi.gpx](nantai-san-chugushi.gpx) | Nantai-san out and back from Futarasan Shrine Chugushi | |
 | [hiuchi-myoko-sasagamine-tsubame.gpx](hiuchi-myoko-sasagamine-tsubame.gpx) | Hiuchi-yama and Myoko-san: Sasagamine - Koyaike (tent) - Hiuchi-yama - Myoko-san - Tsubame Onsen | |
+| [tanigawa-tenjin-shigekura.gpx](tanigawa-tenjin-shigekura.gpx) | Tanigawa-dake by the Tenjin ridge, on to Ichinokura-dake and Shigekura-dake and back | |
