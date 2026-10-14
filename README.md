@@ -20,3 +20,4 @@ You may use these files for planning your own hike. If you republish them, pleas
 | [bandai-urabandai-crater-loop.gpx](bandai-urabandai-crater-loop.gpx) | Bandai-san loop from Ura-Bandai across the crater floor | |
 | [nikko-shirane-goshikinuma-loop.gpx](nikko-shirane-goshikinuma-loop.gpx) | Nikko-Shirane-san loop from the ropeway top station via Oku-Shirane, Mae-Shirane and Goshiki-numa | |
 | [adatara-okudake-tetsuzan-loop.gpx](adatara-okudake-tetsuzan-loop.gpx) | Adatara-yama loop from Okudake via Yakushi-dake, Tetsuzan, Mine-no-tsuji and Kurogane hut | |
+| [kobushi-nishizawa-tokuchan-shindo.gpx](kobushi-nishizawa-tokuchan-shindo.gpx) | Kobushi-ga-take out-and-back from Nishizawa-keikoku by the Tokuchan-shindo trail | |
