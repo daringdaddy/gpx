@@ -17,3 +17,4 @@ You may use these files for planning your own hike. If you republish them, pleas
 | [nantai-san-chugushi.gpx](nantai-san-chugushi.gpx) | Nantai-san out and back from Futarasan Shrine Chugushi | |
 | [hiuchi-myoko-sasagamine-tsubame.gpx](hiuchi-myoko-sasagamine-tsubame.gpx) | Hiuchi-yama and Myoko-san: Sasagamine - Koyaike (tent) - Hiuchi-yama - Myoko-san - Tsubame Onsen | |
 | [tanigawa-tenjin-shigekura.gpx](tanigawa-tenjin-shigekura.gpx) | Tanigawa-dake by the Tenjin ridge, on to Ichinokura-dake and Shigekura-dake and back | |
+| [bandai-urabandai-crater-loop.gpx](bandai-urabandai-crater-loop.gpx) | Bandai-san loop from Ura-Bandai across the crater floor | |
