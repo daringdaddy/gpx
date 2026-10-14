@@ -19,3 +19,4 @@ You may use these files for planning your own hike. If you republish them, pleas
 | [tanigawa-tenjin-shigekura.gpx](tanigawa-tenjin-shigekura.gpx) | Tanigawa-dake by the Tenjin ridge, on to Ichinokura-dake and Shigekura-dake and back | |
 | [bandai-urabandai-crater-loop.gpx](bandai-urabandai-crater-loop.gpx) | Bandai-san loop from Ura-Bandai across the crater floor | |
 | [nikko-shirane-goshikinuma-loop.gpx](nikko-shirane-goshikinuma-loop.gpx) | Nikko-Shirane-san loop from the ropeway top station via Oku-Shirane, Mae-Shirane and Goshiki-numa | |
+| [adatara-okudake-tetsuzan-loop.gpx](adatara-okudake-tetsuzan-loop.gpx) | Adatara-yama loop from Okudake via Yakushi-dake, Tetsuzan, Mine-no-tsuji and Kurogane hut | |
