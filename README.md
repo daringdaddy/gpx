@@ -22,3 +22,4 @@ You may use these files for planning your own hike. If you republish them, pleas
 | [adatara-okudake-tetsuzan-loop.gpx](adatara-okudake-tetsuzan-loop.gpx) | Adatara-yama loop from Okudake via Yakushi-dake, Tetsuzan, Mine-no-tsuji and Kurogane hut | |
 | [kobushi-nishizawa-tokuchan-shindo.gpx](kobushi-nishizawa-tokuchan-shindo.gpx) | Kobushi-ga-take out-and-back from Nishizawa-keikoku by the Tokuchan-shindo trail | |
 | [mizugaki-mizugakisanso-out-and-back.gpx](mizugaki-mizugakisanso-out-and-back.gpx) | Mizugaki-yama out-and-back from Mizugaki-sanso via Fujimi-daira hut | |
+| [amagi-kogen-to-amagi-toge-traverse.gpx](amagi-kogen-to-amagi-toge-traverse.gpx) | Amagi-san traverse from Amagi-kogen to Amagi-toge via Banjiro, Banzaburo and Hatcho-ike | |
