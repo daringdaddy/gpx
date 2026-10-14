@@ -24,3 +24,4 @@ You may use these files for planning your own hike. If you republish them, pleas
 | [mizugaki-mizugakisanso-out-and-back.gpx](mizugaki-mizugakisanso-out-and-back.gpx) | Mizugaki-yama out-and-back from Mizugaki-sanso via Fujimi-daira hut | |
 | [amagi-kogen-to-amagi-toge-traverse.gpx](amagi-kogen-to-amagi-toge-traverse.gpx) | Amagi-san traverse from Amagi-kogen to Amagi-toge via Banjiro, Banzaburo and Hatcho-ike | |
 | [nasu-chausu-sanbonyari-out-and-back.gpx](nasu-chausu-sanbonyari-out-and-back.gpx) | Nasu-dake: Chausu-dake, Asahi-dake and Sanbon-yari-dake from the ropeway base station | |
+| [tanzawa-okura-ridge-out-and-back.gpx](tanzawa-okura-ridge-out-and-back.gpx) | Tanzawa-yama out-and-back from Okura by the Okura ridge and To-no-dake | |
