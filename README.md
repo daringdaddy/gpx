@@ -12,3 +12,4 @@ You may use these files for planning your own hike. If you republish them, pleas
 | [aka-dake-shinkyoji-kenkai-loop.gpx](aka-dake-shinkyoji-kenkai-loop.gpx) | Aka-dake (Yatsugatake) day loop: Hagoromo-ike entrance → Shinkyōji-one → Aka-dake → Kenkai-one → Sun Meadows Kiyosato | 2026-08-13 |
 | [kaikoma-senjo-choei-base.gpx](kaikoma-senjo-choei-base.gpx) | Kai-Komagatake and Senjōgatake as two day walks from a tent at Chōei-goya, Kitazawa-tōge | 2026-09-18/19 |
 | [shiramine-sanzan-hirogawara-narada.gpx](shiramine-sanzan-hirogawara-narada.gpx) | Shiramine Sanzan in two days: Hirogawara → Kita-dake → Kitadake Sansō → Ainodake → Nōtori-dake → Daimonzawa → Narada | 2026-10-10/11 |
+| [yakushi-dake-oritate-tarodaira.gpx](yakushi-dake-oritate-tarodaira.gpx) | Yakushi-dake from Oritate with a night at Tarōdaira hut (day 2 reconstructed, no elevation) | 2026-07-11/12 |
