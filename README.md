@@ -14,3 +14,4 @@ You may use these files for planning your own hike. If you republish them, pleas
 | [shiramine-sanzan-hirogawara-narada.gpx](shiramine-sanzan-hirogawara-narada.gpx) | Shiramine Sanzan in two days: Hirogawara → Kita-dake → Kitadake Sansō → Ainodake → Nōtori-dake → Daimonzawa → Narada | 2026-10-10/11 |
 | [yakushi-dake-oritate-tarodaira.gpx](yakushi-dake-oritate-tarodaira.gpx) | Yakushi-dake from Oritate with a night at Tarōdaira hut (day 2 reconstructed, no elevation) | 2026-07-11/12 |
 | [asama-maekake-kurumazaka-loop.gpx](asama-maekake-kurumazaka-loop.gpx) | Asama-yama (Maekake-yama) loop from Kurumazaka-toge via Kusa-suberi | |
+| [nantai-san-chugushi.gpx](nantai-san-chugushi.gpx) | Nantai-san out and back from Futarasan Shrine Chugushi | |
