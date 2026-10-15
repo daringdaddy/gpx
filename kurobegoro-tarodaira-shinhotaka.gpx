@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="en.daringdaddy.com" xmlns="http://www.topografix.com/GPX/1/1">
-<metadata><name>Kurobegoro-dake traverse: Yakushi-toge to Shin-Hotaka (days 2-3)</name><desc>Author's GPS track, August 17-18, 2025: Yakushi-toge campsite, Kitanomata-dake, Kurobegoro-dake, cirque, Kurobegoro hut, Mitsumata-renge-dake, Sugoroku-dake, Sugoroku hut, Kagami-daira, Wasabidaira, Shin-Hotaka. Timestamps removed. en.daringdaddy.com</desc></metadata>
+<metadata><name>Kurobegoro-dake traverse: Yakushi-toge to Shin-Hotaka (days 2-3)</name><desc>Author's GPS track, August 17-18, 2025: Yakushi-toge campsite, Kitanomata-dake, Kurobegoro-dake, cirque, Kurobegoro hut, Mitsumata-renge-dake, Sugoroku-dake, Sugoroku hut, Kagami-daira, Wasabidaira, Shin-Hotaka. Recording gap near Sugoroku hut left as a break. Timestamps removed. en.daringdaddy.com</desc></metadata>
 <trk><name>Kurobegoro-dake traverse: Yakushi-toge to Shin-Hotaka (days 2-3)</name>
 <trkseg>
 <trkpt lat="36.45337" lon="137.52522"><ele>2314</ele></trkpt>
@@ -3701,8 +3701,8 @@
 <trkpt lat="36.36975" lon="137.60154"><ele>2517</ele></trkpt>
 <trkpt lat="36.36978" lon="137.60159"><ele>2516</ele></trkpt>
 <trkpt lat="36.36975" lon="137.60164"><ele>2515</ele></trkpt>
-<trkpt lat="36.36973" lon="137.6017"><ele>2518</ele></trkpt>
-<trkpt lat="36.36971" lon="137.60175"><ele>2526</ele></trkpt>
+</trkseg>
+<trkseg>
 <trkpt lat="36.35674" lon="137.60059"><ele>2582</ele></trkpt>
 <trkpt lat="36.3567" lon="137.60058"><ele>2590</ele></trkpt>
 <trkpt lat="36.35665" lon="137.60055"><ele>2592</ele></trkpt>
