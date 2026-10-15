@@ -28,3 +28,4 @@ You may use these files for planning your own hike. If you republish them, pleas
 | [kumotori-kamosawa-gojunindaira.gpx](kumotori-kamosawa-gojunindaira.gpx) | Kumotori-yama from Kamosawa: two days via Gojunin-daira | |
 | [kurobegoro-tarodaira-shinhotaka.gpx](kurobegoro-tarodaira-shinhotaka.gpx) | Kurobegoro-dake traverse: Yakushi-toge to Shin-Hotaka (days 2-3) | |
 | [daibosatsu-kamihikawa-loop.gpx](daibosatsu-kamihikawa-loop.gpx) | Daibosatsu-rei loop from Kamihikawa-toge | |
+| [shibutsu-hatomachi-yamanohana.gpx](shibutsu-hatomachi-yamanohana.gpx) | Shibutsu-san: Hatomachi-toge, Yamanohana, east trail and Ko-Shibutsu | |
