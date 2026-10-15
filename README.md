@@ -27,3 +27,4 @@ You may use these files for planning your own hike. If you republish them, pleas
 | [tanzawa-okura-ridge-out-and-back.gpx](tanzawa-okura-ridge-out-and-back.gpx) | Tanzawa-yama out-and-back from Okura by the Okura ridge and To-no-dake | |
 | [kumotori-kamosawa-gojunindaira.gpx](kumotori-kamosawa-gojunindaira.gpx) | Kumotori-yama from Kamosawa: two days via Gojunin-daira | |
 | [kurobegoro-tarodaira-shinhotaka.gpx](kurobegoro-tarodaira-shinhotaka.gpx) | Kurobegoro-dake traverse: Yakushi-toge to Shin-Hotaka (days 2-3) | |
+| [daibosatsu-kamihikawa-loop.gpx](daibosatsu-kamihikawa-loop.gpx) | Daibosatsu-rei loop from Kamihikawa-toge | |
