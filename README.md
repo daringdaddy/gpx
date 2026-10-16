@@ -34,3 +34,4 @@ You may use these files for planning your own hike. If you republish them, pleas
 | [yarigatake-nakabusa-omote-ginza-shinhotaka.gpx](yarigatake-nakabusa-omote-ginza-shinhotaka.gpx) | Yari-ga-take: Nakabusa to Shin-Hotaka over Omote-Ginza | |
 | [tateyama-raichozawa-loop.gpx](tateyama-raichozawa-loop.gpx) | Tateyama ridge loop from Raichozawa | |
 | [tsurugidake-murodo-tsurugisawa-bessanone.gpx](tsurugidake-murodo-tsurugisawa-bessanone.gpx) | Tsurugi-dake: Murodo - Tsurugisawa - summit (Bessan-one) | |
+| [ryokami-hinata-oyaguchi.gpx](ryokami-hinata-oyaguchi.gpx) | Ryokami-san from Hinata-Oyaguchi (out and back) | |
