@@ -29,3 +29,4 @@ You may use these files for planning your own hike. If you republish them, pleas
 | [kurobegoro-tarodaira-shinhotaka.gpx](kurobegoro-tarodaira-shinhotaka.gpx) | Kurobegoro-dake traverse: Yakushi-toge to Shin-Hotaka (days 2-3) | |
 | [daibosatsu-kamihikawa-loop.gpx](daibosatsu-kamihikawa-loop.gpx) | Daibosatsu-rei loop from Kamihikawa-toge | |
 | [shibutsu-hatomachi-yamanohana.gpx](shibutsu-hatomachi-yamanohana.gpx) | Shibutsu-san: Hatomachi-toge, Yamanohana, east trail and Ko-Shibutsu | |
+| [tsukuba-shirakumobashi-miyukigahara.gpx](tsukuba-shirakumobashi-miyukigahara.gpx) | Tsukuba-san: Shirakumobashi course up, Miyukigahara course down | |
