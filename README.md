@@ -36,3 +36,4 @@ You may use these files for planning your own hike. If you republish them, pleas
 | [tsurugidake-murodo-tsurugisawa-bessanone.gpx](tsurugidake-murodo-tsurugisawa-bessanone.gpx) | Tsurugi-dake: Murodo - Tsurugisawa - summit (Bessan-one) | |
 | [ryokami-hinata-oyaguchi.gpx](ryokami-hinata-oyaguchi.gpx) | Ryokami-san from Hinata-Oyaguchi (out and back) | |
 | [ura-ginza-takase-suisho-2023.gpx](ura-ginza-takase-suisho-2023.gpx) | Ura-Ginza from Takase dam over Suisho-dake (July 2023) | |
+| [ura-ginza-washiba-mitsumata-2023.gpx](ura-ginza-washiba-mitsumata-2023.gpx) | Ura-Ginza over Washiba-dake to Mitsumata-sanso and Kagami-daira (July 2023) | |
