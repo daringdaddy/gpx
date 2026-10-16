@@ -33,3 +33,4 @@ You may use these files for planning your own hike. If you republish them, pleas
 | [tateshina-okawara-loop.gpx](tateshina-okawara-loop.gpx) | Tateshina-yama loop from Okawara-toge | |
 | [yarigatake-nakabusa-omote-ginza-shinhotaka.gpx](yarigatake-nakabusa-omote-ginza-shinhotaka.gpx) | Yari-ga-take: Nakabusa to Shin-Hotaka over Omote-Ginza | |
 | [tateyama-raichozawa-loop.gpx](tateyama-raichozawa-loop.gpx) | Tateyama ridge loop from Raichozawa | |
+| [tsurugidake-murodo-tsurugisawa-bessanone.gpx](tsurugidake-murodo-tsurugisawa-bessanone.gpx) | Tsurugi-dake: Murodo - Tsurugisawa - summit (Bessan-one) | |
