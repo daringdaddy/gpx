@@ -32,3 +32,4 @@ You may use these files for planning your own hike. If you republish them, pleas
 | [tsukuba-shirakumobashi-miyukigahara.gpx](tsukuba-shirakumobashi-miyukigahara.gpx) | Tsukuba-san: Shirakumobashi course up, Miyukigahara course down | |
 | [tateshina-okawara-loop.gpx](tateshina-okawara-loop.gpx) | Tateshina-yama loop from Okawara-toge | |
 | [yarigatake-nakabusa-omote-ginza-shinhotaka.gpx](yarigatake-nakabusa-omote-ginza-shinhotaka.gpx) | Yari-ga-take: Nakabusa to Shin-Hotaka over Omote-Ginza | |
+| [tateyama-raichozawa-loop.gpx](tateyama-raichozawa-loop.gpx) | Tateyama ridge loop from Raichozawa | |
