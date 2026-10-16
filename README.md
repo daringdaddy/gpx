@@ -31,3 +31,4 @@ You may use these files for planning your own hike. If you republish them, pleas
 | [shibutsu-hatomachi-yamanohana.gpx](shibutsu-hatomachi-yamanohana.gpx) | Shibutsu-san: Hatomachi-toge, Yamanohana, east trail and Ko-Shibutsu | |
 | [tsukuba-shirakumobashi-miyukigahara.gpx](tsukuba-shirakumobashi-miyukigahara.gpx) | Tsukuba-san: Shirakumobashi course up, Miyukigahara course down | |
 | [tateshina-okawara-loop.gpx](tateshina-okawara-loop.gpx) | Tateshina-yama loop from Okawara-toge | |
+| [yarigatake-nakabusa-omote-ginza-shinhotaka.gpx](yarigatake-nakabusa-omote-ginza-shinhotaka.gpx) | Yari-ga-take: Nakabusa to Shin-Hotaka over Omote-Ginza | |
