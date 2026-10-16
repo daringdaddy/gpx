@@ -39,3 +39,4 @@ You may use these files for planning your own hike. If you republish them, pleas
 | [ura-ginza-washiba-mitsumata-2023.gpx](ura-ginza-washiba-mitsumata-2023.gpx) | Ura-Ginza over Washiba-dake to Mitsumata-sanso and Kagami-daira (July 2023) | |
 | [akagi-kurobi-loop.gpx](akagi-kurobi-loop.gpx) | Akagi-san: Obora - Komagatake - Kurobi-san - Lake Onuma loop (June 2021) | |
 | [azumaya-nekodake-sugadaira-loop.gpx](azumaya-nekodake-sugadaira-loop.gpx) | Azumaya-san and Nekodake loop from Sugadaira Bokujo | |
+| [kinpu-san-odarumi.gpx](kinpu-san-odarumi.gpx) | Kinpu-san from Odarumi-toge | |
